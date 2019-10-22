@@ -1,1 +1,3 @@
-Ferdinand Pineda
+Proyectos
+Github
+Contacto

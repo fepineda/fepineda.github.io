@@ -1,7 +1,13 @@
-# Proyectos
-123
-# Github
-## Redes
-456
+# Ferdinand Pineda  :blue_book:
+
+
+Temas y proyectos sobre inteligencia artificial, remote sensing y redes de datos.
+
+
+Proyectos
+Actividades
+
 # Contacto
-fpineda@pucp.edu.pe
+Twitter:  @ferpineda
+Github:   @ferpinedax1
+Linkedin:  @ferpineda  

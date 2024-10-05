@@ -1,4 +1,4 @@
-# Ferdinand Pineda  :blue_book:  
+# Ferdinand Pineda
 
 
 Temas y proyectos sobre inteligencia artificial, remote sensing y redes de datos.
